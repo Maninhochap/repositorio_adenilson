@@ -164,8 +164,8 @@
         </div>
       </div>
       <div class="btn-box">
-        <a href="">
-          View More
+        <a href="https://www.paitomotors.com.br/">
+          Conheça nossa loja!!
         </a>
       </div>
     </div>

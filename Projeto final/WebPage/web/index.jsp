@@ -60,11 +60,14 @@
                       Qualidade Garantida
                     </h1>
                     <p>
-                      Especializada na venda de veículos de luxo e superesportivos, a Paíto Motors se destaca desde 2003 no mercado automotivo como sinônimo de transparência, confiança e qualidade. Nossos veículos são verificados e certificados, e nosso estoque é constantemente renovado com o que há de mais novo e exclusivo. Aqui você irá encontrar o carro que deseja.
+                      Especializada na venda de veículos de luxo e superesportivos, a Paíto Motors se destaca desde 
+                      2003 no mercado automotivo como sinônimo de transparência, confiança e qualidade. Nossos veículos
+                      são verificados e certificados, e nosso estoque é constantemente renovado com o que há de mais 
+                      novo e exclusivo. Aqui você irá encontrar o carro que deseja.
                     </p>
                     <div class="btn-box">
                       <a href="https://www.paitomotors.com.br/" class="btn1">
-                        Order Now
+                        Conhecer
                       </a>
                     </div>
                   </div>
@@ -123,7 +126,7 @@
                     <h6 >
                         R$<%=rs.getString("valor")%>
                     </h6>
-                    <a href="">
+                    <a href="https://www.paitomotors.com.br/">
                       <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 456.029 456.029" style="enable-background:new 0 0 456.029 456.029;" xml:space="preserve">
                         <g>
                           <g>
@@ -210,17 +213,20 @@
           <div class="detail-box">
             <div class="heading_container">
               <h2>
-                We Are Feane
+                Sobre nós
               </h2>
             </div>
             <p>
-              There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration
-              in some form, by injected humour, or randomised words which don't look even slightly believable. If you
-              are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in
-              the middle of text. All
+              A CarWeb é especializada na venda de veículos de luxo e superesportivos, desde 2003. 
+              Com transparência, confiança e qualidade, nossos veículos são verificados e certificados para 
+              garantir ao cliente uma compra completamente segura.
+              Especializada na venda de veículos de luxo e superesportivos, a Paíto Motors se destaca desde 
+              2003 no mercado automotivo como sinônimo de transparência, confiança e qualidade. Nossos veículos
+              são verificados e certificados, e nosso estoque é constantemente renovado com o que há de mais 
+              novo e exclusivo. Aqui você irá encontrar o carro que deseja.
             </p>
-            <a href="">
-              Read More
+            <a href="https://www.paitomotors.com.br/">
+              Conhecer
             </a>
           </div>
         </div>
